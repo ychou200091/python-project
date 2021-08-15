@@ -8,3 +8,4 @@ r = requests.get("https://google.com")
 
 print(r.status_code)
 print(r.ok)
+print("hello")
